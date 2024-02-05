@@ -103,6 +103,9 @@ https://github.com/Rem0o/FanControl.Releases
 **QuickFixMyPic** - Fast image conversion by some good looking guy
 https://github.com/Echostorm44/QuickFixMyPic
 
+**Zoomit** - Tool for presentations
+https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit
+
 ## Programming
 
 **Visual Studio** - The best IDE
@@ -155,6 +158,12 @@ https://mosquitto.org/download/
 
 **MQTT Explorer**
 https://mqtt-explorer.com/
+
+**Code Track** - Portable Code Performance Tester
+https://www.getcodetrack.com/
+
+**LinqPad** $ - Free version kinda sucks
+https://www.linqpad.net/
 
 ## Database
 
