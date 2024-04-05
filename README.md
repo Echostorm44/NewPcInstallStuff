@@ -2,6 +2,12 @@
 A bunch of stuff I install on new boxes and instructions for tricky bits
 
 
+Start Terminal In Admin At Login:
+cmd.exe /k "cd /d c:\Users\UserNameHere\AppData\Local\Microsoft\WindowsApps && wt.exe"
+![image](https://github.com/Echostorm44/NewPcInstallStuff/assets/107306362/cef314c3-7282-4e38-8fa1-5e1f3ed8038a)
+
+
+
 Needed to turn on tcpIP first
 ![image](https://user-images.githubusercontent.com/107306362/197051270-d83175bf-676f-4104-bb39-7cc9e5f635e4.png)
 
