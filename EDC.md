@@ -74,6 +74,27 @@ https://www.amazon.com/dp/B0053WZIVG?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_
 
 https://www.amazon.com/Field-Notes-Kraft-Graph-3-Pack/dp/B006CQT2KU?ref_=ast_sto_dp&th=1
 
+Topstache Multitool Sheath for Men 
+
+<img width="507" height="508" alt="image" src="https://github.com/user-attachments/assets/fdadbac9-194d-4470-8090-a7245c7509b3" />
+
+https://www.amazon.com/dp/B0CXTGCS67?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1
+
+DeBin Case for Large iPhone
+
+<img width="702" height="708" alt="image" src="https://github.com/user-attachments/assets/37013f58-51b9-4720-bbfb-3496d2f4f547" />
+
+https://www.amazon.com/dp/B01LOWUNJK?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_6&th=1
+
+
+
+
+
+
+
+
+
+
 
 
 
