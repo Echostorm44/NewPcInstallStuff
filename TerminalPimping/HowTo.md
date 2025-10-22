@@ -36,3 +36,11 @@ Install-Module -Name Terminal-Icons -Repository PSGallery
 Run this in admin powershell for useful context menus like this: 
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/lextm/windowsterminal-shell/master/install.ps1'))
 ![image](https://user-images.githubusercontent.com/107306362/196825404-44975b10-537c-4a72-84be-6bfbbeadeb6b.png)
+
+For cmd.exe, the following steps are required to enable Unicode and Emoji support.
+
+    Run intl.cpl.
+    Click the Administrative tab
+    Click the Change system locale button.
+    Check the "Use Unicode UTF-8 for worldwide language support" checkbox.
+    Reboot.
