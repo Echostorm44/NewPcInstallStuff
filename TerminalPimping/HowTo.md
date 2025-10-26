@@ -7,6 +7,10 @@ Make it default in Windows Terminal
 ![image](https://user-images.githubusercontent.com/107306362/196824066-fc5b63f4-23b7-4bd3-b0a9-19148954a6bf.png)
 
 Download Nerd Font, I hate that it is called that but there it is
+you can wait until after installing oh my posh and run:
+
+oh-my-posh font install
+
 
 https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/CascadiaCode.zip?WT.mc_id=-blog-scottha
 
@@ -47,4 +51,5 @@ For cmd.exe, the following steps are required to enable Unicode and Emoji suppor
     Click the Change system locale button.
     Check the "Use Unicode UTF-8 for worldwide language support" checkbox.
     Reboot.
+
 
