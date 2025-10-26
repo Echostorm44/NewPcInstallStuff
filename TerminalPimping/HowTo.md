@@ -23,6 +23,9 @@ Create a folder in your Documents folder called PowerShell and put the attached 
 Microsoft.PowerShell_profile.ps1
 into it but remember to fix the path inside.  I've attached my theme or you can use one from the link below.
 
+Run this once:
+Unblock-File -Path $PROFILE
+
 The list of possible themes is here : https://ohmyposh.dev/docs/themes
 
 They are already installed on your drive like this: C:\Users\adamm\AppData\Local\Programs\oh-my-posh\themes
@@ -44,3 +47,4 @@ For cmd.exe, the following steps are required to enable Unicode and Emoji suppor
     Click the Change system locale button.
     Check the "Use Unicode UTF-8 for worldwide language support" checkbox.
     Reboot.
+
